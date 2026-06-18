@@ -1,0 +1,3 @@
+requests
+google-images-download
+whatsapp-api
